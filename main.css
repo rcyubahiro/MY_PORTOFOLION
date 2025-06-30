@@ -970,6 +970,7 @@ footer {
     max-width: 800px;
     padding: 0 2rem;
     animation: fadeInUp 1s ease;
+    z-index: 2;
 }
 
 @keyframes fadeInUp {
